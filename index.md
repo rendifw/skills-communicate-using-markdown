@@ -21,3 +21,11 @@ I added 6 headers using markdown
 list = [1, 2, 3, 'a', 'b', 'c']
 print(list)
 ```
+
+### To do list
+- [x] Finish to do list
+- [ ] Eat
+- [ ] Sleep
+- [ ] Work
+- [x] Laundry
+- [ ] Dishes
