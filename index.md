@@ -11,3 +11,6 @@
 ###### Hello h6 markdown!
 
 I added 6 headers using markdown
+
+## Automatically Changing Image:
+![Image of a cat](https://cataas.com/cat)
